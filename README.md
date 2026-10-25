@@ -51,7 +51,6 @@ Saved facts are stored locally in `chat_memory.db`.
 ## Current Limitations
 
 - Memory is based on explicitly saved facts, not automatic semantic retrieval.
-- Conversation history resets when the application restarts.
 - Response quality depends on the model.
 
 ## Future Improvements
